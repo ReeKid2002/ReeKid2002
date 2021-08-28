@@ -1,27 +1,3 @@
-<style>
-    .heading{
-        font-size: 40px;
-    }
-    .under-heading{
-        font-size: 20px;
-    }
-    .about{
-        font-size: 16px;
-    }
-    .table1 {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .table2 {
-        display: flex;
-        align-items: center;
-        justify-content: space-around;
-    }
-    .tech {
-        padding: 3px;
-    }
-</style>
 <div>
 <h1 align="center" class="heading"><strong>Yo Peeps 👋, Rahul Behera Here</strong></h1>
 <h3 align="center" class="under-heading">A Human, Person, Student, Learner, Developer.....🤔</h3>
