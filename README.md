@@ -16,7 +16,7 @@
     </div>
     <br><br>
     <div>
-    <h2>📮Project Repo:</h2><hr>
+    <h2>📮Project Repo:</h2>
     <div class="table2">
         <a class="tech" href="https://github.com/ReeKid2002/mailrocket.git" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=mailrocket&theme=chartreuse-dark&show_icons=true"/></a> 
         <a class="tech" href="https://github.com/ReeKid2002/bankingapp.git" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=bankingapp&theme=chartreuse-dark&show_icons=true"/></a>
@@ -24,7 +24,7 @@
 </div>
     <br><br>
 <div >
-    <h2>👨‍💻Technology Learning And Can Use:</h2><hr>
+    <h2>👨‍💻Technology Learning And Can Use:</h2>
     <div align="center">
     <img style="padding: 2px;" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img style="padding: 2px;" src="	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></div>
@@ -64,7 +64,7 @@
 </div>
 <br><br>
 <div>
-    <h2>📮Reach Me At:</h2><hr>
+    <h2>📮Reach Me At:</h2>
     <div align="center">
         <a  style="padding: 10px;" href="mailto:rahulbehera2002@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a> 
         <a  style="padding: 10px;" href="https://discordapp.com/users/R%E2%82%AC%E2%82%AC%20K!D#9604" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/discord.png"/></a>
