@@ -3,7 +3,7 @@
 <h3 align="center" class="under-heading">A Human, Person, Student, Learner, Developer.....🤔</h3>
 </div>
 <div class="table1">
-    <table>
+    <table border=0>
     <tr><td><div><h4 class="about">I'm a student of KIIT Deemed to be University, Bachelor of Technology (B.Tech), Information Technology. Current Learning everything. I love listening Music.</h4></div></td>
     <td><div class="gif"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=790b7611034bf1053f7ed19c871c36e3199270cadc6f9bed&rid=giphy.gif&ct=ts" />
     </div></tr>    
