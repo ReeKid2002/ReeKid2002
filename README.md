@@ -1,25 +1,40 @@
 <div>
-<h1 align="center"><strong>Yo Peeps 👋, Rahul Behera Here</strong></h1>
-<h3 align="center" class="under-heading">A Human, Person, Student, Learner, Developer.....🤔</h3>
+    <h1 align="center"><strong>Yo Peeps 👋, Rahul Behera Here</strong></h1>
+    <h3 align="center" class="under-heading">A Developer, Programmer, Coder, Student, Learner, .....🤔</h3>
 </div>
-<div class="table1">
-    <table border=0>
-    <tr><td><div><h4 class="about">I'm a student of KIIT Deemed to be University, Bachelor of Technology (B.Tech), Information Technology. Current Learning everything. I love listening Music.</h4></div></td>
-    <td><div class="gif"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif?cid=790b7611034bf1053f7ed19c871c36e3199270cadc6f9bed&rid=giphy.gif&ct=ts" />
-    </div></tr>    
-    </table>
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center" align="center">
+<img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" />
+<br />
+<img src="https://profile-counter.glitch.me/ReeKid2002/count.svg" alt="visitor-count"/>
 </div>
+    <h2>🫠 About Me:</h2>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center" align="center">
+    <h4 class="about" align="left">Hello,<br/>
+I'm Rahul Behera, and I am currently working as a full stack developer. I'm passionate about building robust and user-friendly applications that make a difference in people's lives. With a strong foundation in both Frontend and backend technologies, I thrive on creating seamless experiences that users love.
+<br/>
+<br/>
+On the Frontend, I have a deep understanding of HTML, CSS, JavaScript, and React, and I enjoy crafting intuitive and visually appealing user interfaces. I love exploring new frameworks and libraries to stay up-to-date with the latest trends in web development.
+<br/>
+<br/>
+When it comes to the backend, I'm well-versed in server-side technologies like Node.js and Express. I take pride in designing efficient APIs and implementing robust server logic that ensures the smooth functioning of 
+applications.
+    </h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=ReeKid2002&&theme=chartreuse-dark&show_icons=true"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeKid2002&layout=compact&langs_count=6&theme=chartreuse-dark&show_icons=true"/>
+    </div>
     <div>
-    <div ><img src="https://github-readme-stats.vercel.app/api?username=ReeKid2002&&theme=chartreuse-dark&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeKid2002&layout=compact&langs_count=6&theme=chartreuse-dark&show_icons=true"/></div>
     <div></div>
     </div>
     <br><br>
     <div>
-    <h2>📮Project Repo:</h2>
-    <div class="table2">
+    <h2>🛠️Project Repo:</h2>
+    <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center">
+        <a class="tech" href="https://github.com/ReeKid2002/sukoshi-url-shortner-frontend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=sukoshi-url-shortner-frontend&theme=chartreuse-dark&show_icons=true"/></a> 
+        <a class="tech" href="https://github.com/ReeKid2002/chat-app-frontend" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=chat-app-frontend&theme=chartreuse-dark&show_icons=true"/></a>
+        <a class="tech" href="https://github.com/ReeKid2002/youtube-clone" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=youtube-clone&theme=chartreuse-dark&show_icons=true"/></a>
+        <a class="tech" href="https://github.com/ReeKid2002/classroom-app" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=classroom-app&theme=chartreuse-dark&show_icons=true"/></a> 
         <a class="tech" href="https://github.com/ReeKid2002/mailrocket.git" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=mailrocket&theme=chartreuse-dark&show_icons=true"/></a> 
-        <a class="tech" href="https://github.com/ReeKid2002/bankingapp.git" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ReeKid2002&repo=bankingapp&theme=chartreuse-dark&show_icons=true"/></a>
     </div>
 </div>
     <br><br>
